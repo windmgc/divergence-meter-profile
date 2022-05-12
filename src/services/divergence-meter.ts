@@ -14,7 +14,7 @@ const NUMBERS = [
   'd',
 ];
 
-const GITHUB_NUMBERS_IMAGE_DIRECTORY_URL = 'https://raw.githubusercontent.com/windmgc/test_repo/master/src/assets/images/';
+const GITHUB_NUMBERS_IMAGE_DIRECTORY_URL = 'https://raw.githubusercontent.com/windmgc/divergence-meter-profile/main/src/assets/images/';
 
 export const getPieces = async (): Promise<object> => {
   const pieceImages = {};
